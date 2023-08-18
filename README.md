@@ -4,14 +4,18 @@
 (fill in your description and goals here)
 
 ## Process
-### (your step 1)
-### (your step 2)
+### Getting data ready to analyze (discover, cleaning, making relationships, joins etc.)
+### Analysis of the data:
+  -  Exploratory Data Analysis (EDA)
+  -  Finding/Comparing trends
+  -  Analyzing relationships & correlations
+  -  Hypothesis Testing and Statistical Analysis
+  -  Building regression model
+### Creating interactive visualizations
 
 ## Results
-(Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
+-  Clear correlation between fossil fuel consumption & GDP, population of the countries
+-  Top countries that consume renewable energy are the 1st world countries
+-  Renewables energy consumption is still increasing rapidly
 
 ## Challenges 
-(discuss challenges you faced in the project)
-
-## Future Goals
-(what would you do if you had more time?)
